@@ -13,25 +13,25 @@ void setup() {
   --------------------*/
 
   //////////SELECT PROGRAM HERE://///////
-  int programChoise = 1;
+  int programChoice = 1;
 
   //1: Play with colors
-  if(programChoise == 1){
+  if(programChoice == 1){
     playWithColors();
   }
   
   //2: Show temperature
-  if(programChoise == 2){
+  if(programChoice == 2){
     showTemperature();
   }
   
   //3: Roll dice
-  if(programChoise == 3){
+  if(programChoice == 3){
     rollDice();
   }
 
   //4: Piano
-  if(programChoise == 4){
+  if(programChoice == 4){
     playPiano();
   }
 
