@@ -1,3 +1,9 @@
+//******************************************************************************************//
+// Circuit Playground - 4 simple examples                                                   //
+// Author: Julia Nilsson (julia.nilsson@saabgroup.com or julia.anna.nilsson.92@gmail.com)   //
+//         Caroline Strandberg (caroline.strandberg@saabgroup.com)                          //
+//******************************************************************************************//
+
 #include <Adafruit_CircuitPlayground.h>
 
 // put your setup code here, to run once:
